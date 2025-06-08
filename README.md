@@ -17,7 +17,8 @@ This is a modern and stylish landing page UI design for **PUMA**, built in **Fig
 
 ## 📸 Preview
 
-![UI Preview](./PUMA%20WEB.png)
+![UI Preview](PUMA%20WEB.png)
+
 
 ## 📁 Project Structure
 
