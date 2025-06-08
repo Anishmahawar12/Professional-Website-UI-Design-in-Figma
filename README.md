@@ -17,7 +17,9 @@ This is a modern and stylish landing page UI design for **PUMA**, built in **Fig
 
 ## 📸 Preview
 
-![UI Preview](PUMA%20WEB.png)
+## UI Preview
+
+![UI Preview](https://raw.githubusercontent.com/Anishmahawar12/Professional Website UI Design in Figma/main/puma_web.png)
 
 
 ## 📁 Project Structure
